@@ -1,0 +1,10 @@
+[
+  {
+    "title": "avion",
+    "description": "descripcion del avion",
+    "price": 453,
+    "thumbnail": "http//imagenAvion.jpg",
+    "code": "AR76gt43",
+    "stock": 100
+  }
+]
